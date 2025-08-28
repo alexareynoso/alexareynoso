@@ -5,7 +5,7 @@ Actualmente soy estudiante de Ciencias de la Computacion en la UNAM.
 
 Aún no soy una experta en programación, pero estoy más enfocada en el lenguaje **Java**.
 
-## Intereses y hobbies:
+### Intereses y hobbies:
 - Leer
 - Tejer
 - Nadar
